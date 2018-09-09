@@ -1,5 +1,5 @@
-#ifndef HX711_h
-#define HX711_h
+#ifndef HX711_H
+#define HX711_H
 #define pulse(pin) { digitalWrite(pin, HIGH); digitalWrite(pin, LOW); }
 #include "Arduino.h"
 
